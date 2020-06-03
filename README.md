@@ -7,10 +7,10 @@
 ---
 
 <p align="center">
-  <a href="#contributing">
-   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+ <a href="#contributing">
+   <img src="https://img.shields.io/badge/Robots-only-brightred.svg?style=flat-square" alt="Robots only">
  </a>
- <a href="https://github.com/cdnjs/packages/blob/master/LICENSE">
+ <a href="https://github.com/cdnjs/cdnjs/blob/master/LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square" alt="MIT License">
  </a>
  <a href="https://cdnjs.discourse.group/">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- <a href="#donate-and-support-us">
+ <a href="https://github.com/cdnjs/packages/blob/master/README.md#donate-and-support-us">
   <img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA.svg?style=flat-square" alt="GitHub Sponsors">
  </a>
  <a href="https://opencollective.com/cdnjs">
@@ -36,13 +36,7 @@
 
 * [Introduction](#introduction)
   * [Other Repositories](#other-repositories)
-* [Support Us](#support-us)
-  * [Become a contributor](#become-a-contributor)
-  * [Donate and support us](#donate-and-support-us)
 * [Contributing](#contributing)
-* [latest version URL support](#latest-version-url-support)
-* [API usage](#api-usage)
-* [Contributors](#contributors)
 * [Sponsors](#sponsors)
 * [License](#license)
 
