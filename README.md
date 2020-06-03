@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#contributing">
-   <img src="https://img.shields.io/badge/Robots-only-brightred.svg?style=flat-square" alt="Robots only">
+   <img src="https://img.shields.io/badge/Robots-only-red.svg?style=flat-square" alt="Robots only">
  </a>
  <a href="https://github.com/cdnjs/cdnjs/blob/master/LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square" alt="MIT License">
